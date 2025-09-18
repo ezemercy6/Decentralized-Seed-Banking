@@ -113,7 +113,6 @@
 )
 
 ;; Public Functions
-
 ;; Deposit seeds into the bank
 (define-public (deposit-seeds 
   (name (string-ascii 100))
